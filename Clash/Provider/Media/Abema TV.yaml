@@ -8,4 +8,5 @@ payload:
   - DOMAIN-SUFFIX,hayabusa.io
   - DOMAIN-KEYWORD,abematv.akamaized.net
   - DOMAIN-SUFFIX,abema-tv.com
-  -	DOMAIN-SUFFIX,api-abematv.bucketeer.jp
+  - DOMAIN-SUFFIX,api-abematv.bucketeer.jp
+  - DOMAIN-SUFFIX,infinity-c32.youboranqs01.com
