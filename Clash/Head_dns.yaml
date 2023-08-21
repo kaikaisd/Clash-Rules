@@ -5,7 +5,7 @@ allow-lan: true
 mode: Rule
 log-level: info
 external-controller: 127.0.0.1:6170
-secret: dler
+secret: kaikaisd
 experimental:
   ignore-resolve-fail: true
 dns:
@@ -15,12 +15,11 @@ dns:
   enhanced-mode: fake-ip
   fake-ip-range: 198.18.0.1/16
   default-nameserver:
-    - 119.29.29.29
-    - 223.5.5.5
-    - 223.6.6.6
+    - 1.1.1.1
+    - 8.8.8.8
   nameserver:
-    - https://doh.pub/dns-query
-    - https://dns.alidns.com/dns-query
+    - https://dns.google/dns-query
+    - https://1.1.1.1/dns-query
   fake-ip-filter:
     - "*.lan"
     - "*.localdomain"
