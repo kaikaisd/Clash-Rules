@@ -1,5 +1,5 @@
 payload:
-  # > Fox+ (HK|TW|SG)
+  # > U-NEXT.JP
   # - USER-AGENT,FOXPlus*
-  - DOMAIN-SUFFIX,akamaized.net
+  # - DOMAIN-SUFFIX,akamaized.net
   - DOMAIN-SUFFIX,u-next.jp
