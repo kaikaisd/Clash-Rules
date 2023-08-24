@@ -9,6 +9,6 @@ payload:
   - DOMAIN-KEYWORD,abematv.akamaized.net
   - DOMAIN-SUFFIX,abema-tv.com
   - DOMAIN,api-abematv.bucketeer.jp
-  - DOMAIN,infinity-c32.youboranqs01.com
+  - DOMAIN-SUFFIX,youboranqs01.com
   - DOMAIN,abema.adx.promo
   - DOMAIN,a-fds.youborafds01.com
