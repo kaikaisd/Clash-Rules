@@ -6,7 +6,7 @@ payload:
   - DOMAIN,prd-storage-app-umamusume.akamaized.net
   - DOMAIN,prd-storage-game-umamusume.akamaized.net
   - DOMAIN,prd-storage-umamusume.akamaized.net
-  #- DOMAIN-KEYWORD,umamusume
+  - DOMAIN-KEYWORD,umamusume
 
 # >> PCR
   - DOMAIN-SUFFIX,prd-priconne-redive.akamaized.net
