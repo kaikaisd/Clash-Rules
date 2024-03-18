@@ -21,3 +21,4 @@ payload:
 
   # > Gemini
   - DOMAIN,gemini.google.com
+  - DOMAIN,ai.google.dev
