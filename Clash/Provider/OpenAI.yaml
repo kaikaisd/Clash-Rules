@@ -22,3 +22,4 @@ payload:
   # > Gemini
   - DOMAIN,gemini.google.com
   - DOMAIN,ai.google.dev
+  - DOMAIN,makersuite.google.com
