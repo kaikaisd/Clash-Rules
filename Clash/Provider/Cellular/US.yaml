@@ -1,0 +1,11 @@
+payload:
+ # > Version
+ - DOMAIN,wo.vzwwo.com
+ # > AT&T
+ - DOMAIN,epdg.epc.att.net
+ # > Sprint
+ - DOMAIN,primgw.vowifi2.spcsdns.net
+ # > TMobile
+ - DOMAIN,epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
+ - DOMAIN,ss.epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
+ - DOMAIN,ss.epdg.epc.geo.mnc260.mcc310.pub.3gppnetwork.org
