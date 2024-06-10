@@ -1,8 +1,8 @@
 payload:
- ## > 3HK
+ # > 3HK
  - DOMAIN,wlan.datapath.three.com.hk
 
- ## > ClubSim
+ # > ClubSim
  - DOMAIN,csl.prod.ondemandconnectivity.com
  - DOMAIN,hhk.prod.ondemandconnectivity.com
  - DOMAIN,epdg.epc.mnc000.mcc454.pub.3gppnetwork.org
