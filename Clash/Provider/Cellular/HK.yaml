@@ -1,6 +1,7 @@
 payload:
  ## > 3HK
  - DOMAIN,wlan.datapath.three.com.hk
+
  ## > ClubSim
  - DOMAIN,csl.prod.ondemandconnectivity.com
  - DOMAIN,hhk.prod.ondemandconnectivity.com
