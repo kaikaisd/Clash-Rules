@@ -1,4 +1,4 @@
 payload:
  # > 3UK - Airplane mode
  - DOMAIN,epdg.epc.mnc020.mcc234.pub.3gppnetwork.org
- - DOMAIN,gspe1-ssl.ls.apple.com
+
