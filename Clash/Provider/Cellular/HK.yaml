@@ -17,3 +17,4 @@ payload:
  - DOMAIN,epdg.epc.mnc020.mcc454.pub.3gppnetwork.org
  - DOMAIN,ss.epdg.epc.mnc020.mcc454.pub.3gppnetwork.org
  - DOMAIN,ss.epdg.epc.geo.mnc020.mcc454.pub.3gppnetwork.org
+ - DOMAIN,gspe1-ssl.ls.apple.com
