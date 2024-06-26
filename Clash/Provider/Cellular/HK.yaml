@@ -8,3 +8,12 @@ payload:
  - DOMAIN,epdg.epc.mnc000.mcc454.pub.3gppnetwork.org
  - DOMAIN,ss.epdg.epc.mnc000.mcc454.pub.3gppnetwork.org
  - DOMAIN,ss.epdg.epc.geo.mnc000.mcc454.pub.3gppnetwork.org
+ - DOMAIN,epdg.epc.mnc002.mcc454.pub.3gppnetwork.org
+ - DOMAIN,ss.epdg.epc.mnc002.mcc454.pub.3gppnetwork.org
+ - DOMAIN,ss.epdg.epc.geo.mnc002.mcc454.pub.3gppnetwork.org
+ - DOMAIN,epdg.epc.mnc019.mcc454.pub.3gppnetwork.org
+ - DOMAIN,ss.epdg.epc.mnc019.mcc454.pub.3gppnetwork.org
+ - DOMAIN,ss.epdg.epc.geo.mnc019.mcc454.pub.3gppnetwork.org
+ - DOMAIN,epdg.epc.mnc020.mcc454.pub.3gppnetwork.org
+ - DOMAIN,ss.epdg.epc.mnc020.mcc454.pub.3gppnetwork.org
+ - DOMAIN,ss.epdg.epc.geo.mnc020.mcc454.pub.3gppnetwork.org
