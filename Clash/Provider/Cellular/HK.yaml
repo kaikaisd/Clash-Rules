@@ -1,6 +1,10 @@
 payload:
  # > 3HK
  - DOMAIN,wlan.datapath.three.com.hk
+ - DOMAIN,epdg.epc.mnc005.mcc454.pub.3gppnetwork.org
+ - DOMAIN,epdg.epc.mnc004.mcc454.pub.3gppnetwork.org
+ - DOMAIN,epdg.epc.mnc003.mcc454.pub.3gppnetwork.org
+ - DOMAIN,epdg.epc.mnc014.mcc454.pub.3gppnetwork.org
 
  # > ClubSim/CSL/MVNO's csl Network
  - DOMAIN,csl.prod.ondemandconnectivity.com
