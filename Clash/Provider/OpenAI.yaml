@@ -26,3 +26,6 @@ payload:
   - DOMAIN,ai.google.dev
   - DOMAIN,makersuite.google.com
   - DOMAIN,aistudio.google.com
+
+  # > JetBrain
+  - DOMAIN,api.jetbrains.ai
