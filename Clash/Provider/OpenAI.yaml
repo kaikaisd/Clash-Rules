@@ -29,3 +29,6 @@ payload:
 
   # > JetBrain
   - DOMAIN,api.jetbrains.ai
+  
+  # > Google Antigravity
+  - DOMAIN,antigravity.google
