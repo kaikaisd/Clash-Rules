@@ -191,7 +191,7 @@ payload:
   - DOMAIN-SUFFIX,extmatrix.com
   - DOMAIN-SUFFIX,eyny.com
   - DOMAIN-SUFFIX,fabric.io
-  - DOMAIN-SUFFIX,fastly.net
+  #- DOMAIN-SUFFIX,fastly.net
   - DOMAIN-SUFFIX,fastmail.com
   - DOMAIN-SUFFIX,fc2.com
   - DOMAIN-SUFFIX,feedburner.com

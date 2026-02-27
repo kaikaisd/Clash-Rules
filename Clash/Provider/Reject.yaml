@@ -3386,7 +3386,7 @@ payload:
   - DOMAIN-SUFFIX,fast-cdn.dianjoy.com
   - DOMAIN-SUFFIX,fastclick.com
   - DOMAIN-SUFFIX,fastclick.net
-  - DOMAIN-SUFFIX,fastly.bench.cedexis.com
+  #- DOMAIN-SUFFIX,fastly.bench.cedexis.com
   - DOMAIN-SUFFIX,fastpopunder.com
   - DOMAIN-SUFFIX,fathionmall.com
   - DOMAIN-SUFFIX,fav.simba.taobao.com
