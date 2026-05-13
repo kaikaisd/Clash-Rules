@@ -1,3 +1,4 @@
 payload:
  # > BambuLab CN
  - DOMAIN-SUFFIX,bambulab.cn
+ - DOMAIN,cn.mqtt.bambulab.com
